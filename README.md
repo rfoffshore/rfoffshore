@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rfoffshore/rfoffshore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# RF Soluções Offshore
 
-Here are some ideas to get you started:
+### Manutenção elétrica para operações marítimas e offshore.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Segurança · Qualidade · Agilidade**
+
+[Website](https://rf-offshore.com/) · [Solicitar proposta](mailto:atendimento@rf-offshore.com) · [WhatsApp](https://wa.me/5521997931473)
+
+</div>
+
+---
+
+## Sobre nós
+
+A **RF Soluções Offshore** é especializada em manutenção e instalação de equipamentos elétricos para o setor marítimo e offshore.
+
+Atuamos em sistemas críticos, com foco em confiabilidade, segurança e continuidade operacional.
+
+## Serviços
+
+| Especialidade | Atuação |
+|---|---|
+| **Retificadores ABB e Siemens** | Instalação e manutenção preventiva e corretiva. |
+| **Inversores Vacon** | Comissionamento, parametrização e manutenção em campo. |
+| **Oil Mist Detector** | Manutenção de detectores de névoa de óleo. |
+| **Geradores e PMS** | Testes de desempenho, proteções e resposta operacional. |
+| **Transformadores de grande porte** | Inspeções, análise de isolamento e testes elétricos. |
+| **Ensaios de isolamento** | Serviços com atenção aos requisitos de segurança da NR-10. |
+| **Manutenção preditiva** | Análise de vibração, termografia e ultrassom. |
+
+## Nossa missão
+
+Fornecer soluções técnicas confiáveis que apoiem a eficiência operacional e a segurança da indústria offshore.
+
+## Contato
+
+Para propostas, serviços técnicos e parcerias:
+
+- **Website:** https://rf-offshore.com/
+- **E-mail:** atendimento@rf-offshore.com
+- **Telefone / WhatsApp:** +55 (21) 99793-1473
+- **Endereço:** Rua Doutor Pio Borges, 2055 — Pita, São Gonçalo, RJ
+- **CEP:** 24410-000
+- **CNPJ:** 45.393.750/0001-09
+
+---
+
+<div align="center">
+
+**RF Soluções Offshore**  
+Confiabilidade técnica para operações que exigem precisão.
+
+</div>
