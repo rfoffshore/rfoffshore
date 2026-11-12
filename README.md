@@ -6,6 +6,18 @@
 
 **Segurança · Qualidade · Agilidade**
 
+## Operações e Infraestrutura Offshore
+
+<div align="center">
+  <img src="https://rf-offshore.com/svc-offshore-1.webp" width="45%" alt="Serviço Offshore 1" />
+  <img src="https://rf-offshore.com/svc-offshore-2.webp" width="45%" alt="Serviço Offshore 2" />
+  <img src="https://rf-offshore.com/svc-offshore-3.webp" width="45%" alt="Serviço Offshore 3" />
+  <img src="https://rf-offshore.com/svc-offshore-4.webp" width="45%" alt="Serviço Offshore 4" />
+  <img src="https://rf-offshore.com/svc-offshore-5.webp" width="45%" alt="Serviço Offshore 5" />
+  <img src="https://rf-offshore.com/svc-offshore-6.webp" width="45%" alt="Serviço Offshore 6" />
+  <img src="https://rf-offshore.com/svc-offshore-7.webp" width="45%" alt="Serviço Offshore 7" />
+</div>
+
 [Website](https://rf-offshore.com/) · [Solicitar proposta](mailto:atendimento@rf-offshore.com) · [WhatsApp](https://wa.me/5521997931473)
 
 </div>
