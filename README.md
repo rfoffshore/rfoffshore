@@ -1,67 +1,67 @@
 <div align="center">
 
-# RF Soluções Offshore
+# RF Offshore Solutions
 
-### Manutenção elétrica para operações marítimas e offshore.
+### Electrical maintenance for maritime and offshore operations.
 
-**Segurança · Qualidade · Agilidade**
+**Safety · Quality · Agility**
 
-## Operações e Infraestrutura Offshore
+## Offshore Operations and Infrastructure
 
 <div align="center">
-  <img src="https://rf-offshore.com/svc-offshore-1.webp" width="45%" alt="Serviço Offshore 1" />
-  <img src="https://rf-offshore.com/svc-offshore-2.webp" width="45%" alt="Serviço Offshore 2" />
-  <img src="https://rf-offshore.com/svc-offshore-3.webp" width="45%" alt="Serviço Offshore 3" />
-  <img src="https://rf-offshore.com/svc-offshore-4.webp" width="45%" alt="Serviço Offshore 4" />
-  <img src="https://rf-offshore.com/svc-offshore-5.webp" width="45%" alt="Serviço Offshore 5" />
-  <img src="https://rf-offshore.com/svc-offshore-6.webp" width="45%" alt="Serviço Offshore 6" />
-  <img src="https://rf-offshore.com/svc-offshore-7.webp" width="45%" alt="Serviço Offshore 7" />
+  <img src="https://rf-offshore.com/svc-offshore-1.webp" width="45%" alt="Offshore Service 1" />
+  <img src="https://rf-offshore.com/svc-offshore-2.webp" width="45%" alt="Offshore Service 2" />
+  <img src="https://rf-offshore.com/svc-offshore-3.webp" width="45%" alt="Offshore Service 3" />
+  <img src="https://rf-offshore.com/svc-offshore-4.webp" width="45%" alt="Offshore Service 4" />
+  <img src="https://rf-offshore.com/svc-offshore-5.webp" width="45%" alt="Offshore Service 5" />
+  <img src="https://rf-offshore.com/svc-offshore-6.webp" width="45%" alt="Offshore Service 6" />
+  <img src="https://rf-offshore.com/svc-offshore-7.webp" width="45%" alt="Offshore Service 7" />
 </div>
 
-[Website](https://rf-offshore.com/) · [Solicitar proposta](mailto:atendimento@rf-offshore.com) · [WhatsApp](https://wa.me/5521997931473)
+[Website](https://rf-offshore.com/) · [Request a Quote](mailto:atendimento@rf-offshore.com) · [WhatsApp](https://wa.me/5521997931473)
 
 </div>
 
 ---
 
-## Sobre nós
+## About Us
 
-A **RF Soluções Offshore** é especializada em manutenção e instalação de equipamentos elétricos para o setor marítimo e offshore.
+**RF Offshore Solutions** specializes in the maintenance and installation of electrical equipment for the maritime and offshore sectors.
 
-Atuamos em sistemas críticos, com foco em confiabilidade, segurança e continuidade operacional.
+We work on critical systems, focusing on reliability, safety, and operational continuity.
 
-## Serviços
+## Services
 
-| Especialidade | Atuação |
+| Specialty | Scope |
 |---|---|
-| **Retificadores ABB e Siemens** | Instalação e manutenção preventiva e corretiva. |
-| **Inversores Vacon** | Comissionamento, parametrização e manutenção em campo. |
-| **Oil Mist Detector** | Manutenção de detectores de névoa de óleo. |
-| **Geradores e PMS** | Testes de desempenho, proteções e resposta operacional. |
-| **Transformadores de grande porte** | Inspeções, análise de isolamento e testes elétricos. |
-| **Ensaios de isolamento** | Serviços com atenção aos requisitos de segurança da NR-10. |
-| **Manutenção preditiva** | Análise de vibração, termografia e ultrassom. |
+| **ABB and Siemens Rectifiers** | Installation, preventive maintenance, and corrective maintenance. |
+| **Vacon Drives** | Commissioning, parameter configuration, and field maintenance. |
+| **Oil Mist Detectors** | Maintenance of oil mist detection equipment. |
+| **Generators and PMS** | Performance, protection, and operational response testing. |
+| **Large Power Transformers** | Inspections, insulation analysis, and electrical testing. |
+| **Insulation Testing** | Services performed with attention to NR-10 safety requirements. |
+| **Predictive Maintenance** | Vibration analysis, thermography, and ultrasonic inspection. |
 
-## Nossa missão
+## Our Mission
 
-Fornecer soluções técnicas confiáveis que apoiem a eficiência operacional e a segurança da indústria offshore.
+To deliver reliable technical solutions that support operational efficiency and safety in the offshore industry.
 
-## Contato
+## Contact
 
-Para propostas, serviços técnicos e parcerias:
+For quotes, technical services, and partnerships:
 
 - **Website:** https://rf-offshore.com/
-- **E-mail:** atendimento@rf-offshore.com
-- **Telefone / WhatsApp:** +55 (21) 99793-1473
-- **Endereço:** Rua Doutor Pio Borges, 2055 — Pita, São Gonçalo, RJ
-- **CEP:** 24410-000
-- **CNPJ:** 45.393.750/0001-09
+- **Email:** atendimento@rf-offshore.com
+- **Phone / WhatsApp:** +55 (21) 99793-1473
+- **Address:** Rua Doutor Pio Borges, 2055 — Pita, São Gonçalo, RJ, Brazil
+- **Postal Code:** 24410-000
+- **Brazilian Business Registration (CNPJ):** 45.393.750/0001-09
 
 ---
 
 <div align="center">
 
-**RF Soluções Offshore**  
-Confiabilidade técnica para operações que exigem precisão.
+**RF Offshore Solutions**  
+Technical reliability for operations that demand precision.
 
 </div>
